@@ -1,5 +1,10 @@
-## Hi there 👋
+## ૮ ˶ᵔ ᵕ ᵔ˶ ა Hi, I'm Lu 🌸
 
+🎀 Curious mind • Tech lover • Hardworking • Organized • Always evolving  
+
+💻 Systems Engineering student  
+✨ Exploring software development with curiosity, dedication, and attention to detail  
+🌱 Always learning something new .°˖✧
 <!--
 **luciaviera/luciaviera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
